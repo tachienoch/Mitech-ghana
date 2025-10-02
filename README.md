@@ -204,12 +204,6 @@ FRONTEND_URL=http://localhost:3000
 - `PUT /api/inquiries/:id` - Update inquiry (Admin)
 - `DELETE /api/inquiries/:id` - Delete inquiry (Admin)
 
-## 🔐 Admin Dashboard
-
-### Default Admin Credentials
-- **Email**: admin@mitech.com
-- **Password**: admin123
-
 ### Dashboard Features
 - **Analytics Overview** - Key metrics and statistics
 - **Service Management** - Add, edit, delete services
@@ -336,4 +330,4 @@ This project is proprietary software developed for Mitech Ghana. All rights rese
 ---
 
 **Developed by Mitech Ghana Development Team**  
-© 2024 Mitech Ghana. All rights reserved.
+© 2025 Mitech Ghana. All rights reserved.
