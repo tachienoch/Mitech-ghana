@@ -330,4 +330,4 @@ This project is proprietary software developed for Mitech Ghana. All rights rese
 ---
 
 **Developed by Mitech Ghana Development Team**  
-© 2024 Mitech Ghana. All rights reserved.
+© 2025 Mitech Ghana. All rights reserved.
