@@ -8,9 +8,12 @@ const nextConfig = {
     domains: ['localhost'],
     unoptimized: true,
   },
-  output: 'standalone',
+  output: 'export',
+  trailingSlash: true,
+  skipTrailingSlashRedirect: true,
+  distDir: 'out',
   experimental: {
-    serverActions: true,
+    serverActions: false,
   },
   async rewrites() {
     return [
