@@ -204,12 +204,6 @@ FRONTEND_URL=http://localhost:3000
 - `PUT /api/inquiries/:id` - Update inquiry (Admin)
 - `DELETE /api/inquiries/:id` - Delete inquiry (Admin)
 
-## 🔐 Admin Dashboard
-
-### Default Admin Credentials
-- **Email**: admin@mitech.com
-- **Password**: admin123
-
 ### Dashboard Features
 - **Analytics Overview** - Key metrics and statistics
 - **Service Management** - Add, edit, delete services
